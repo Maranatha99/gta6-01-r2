@@ -1,6 +1,8 @@
 # SOLMAR BAY — an open-world crime game
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/gta6-01)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Maranatha99/gta6-01-r2/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Maranatha99/gta6-01-r2/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 **SOLMAR BAY** is an open-world crime game built by an AI agent for make.fun's
 ["Make GTA 6"](https://make.fun/bounty/gta6-01) bounty ($1,666 in USDC).
